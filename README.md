@@ -4,4 +4,4 @@ I am a Senior Engagement Officer on CDP's Forests team, supporting ambitious cor
 
 My current learning and research interests include remote sensing of deforestation and land conversion, commodity supply chain data analysis and trceability, and statistical applications of Python and R to managing sustainability impacts in organizations.
 
-To learn more about me and my work, please visit my [personal website](https://davkosc.github.io) and [LinkedIn](https://www.linkedin.com/in/davkosc).
+To learn more about me and my work, please visit my [personal website](https://davkosc.github.io) and [LinkedIn](https://www.linkedin.com/in/davkosc/)
